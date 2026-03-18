@@ -1,6 +1,3 @@
-📄 README.md (Versión Final con Contacto)
-Markdown
-
 # 📥 TubeBeat 
 
 **TubeBeat** es un potente extractor de audio universal diseñado para obtener la máxima fidelidad sonora desde plataformas de streaming. Convierte enlaces de video en archivos MP3 de alta calidad (320kbps) con metadatos y carátulas optimizadas.
