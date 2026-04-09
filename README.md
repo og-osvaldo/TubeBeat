@@ -41,4 +41,4 @@ Si tienes dudas, sugerencias o quieres contactarme para proyectos:
 
     GitHub: og-osvaldo
 
-Desarrollado con ❤️ por OG.Osvaldo.studio - 2026
+Desarrollado por OsvaLogic - 2026
